@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\ZI\WcfService\bin\Debug\WcfService.dll.config
+C:\Users\acer\source\repos\ZI\WcfService\bin\Debug\WcfService.dll
+C:\Users\acer\source\repos\ZI\WcfService\bin\Debug\WcfService.pdb
+C:\Users\acer\source\repos\ZI\WcfService\obj\Debug\WcfService.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ZI\WcfService\obj\Debug\WcfService.dll
+C:\Users\acer\source\repos\ZI\WcfService\obj\Debug\WcfService.pdb
+C:\Users\acer\source\repos\ZI\WcfService\obj\Debug\WcfService.csprojAssemblyReference.cache

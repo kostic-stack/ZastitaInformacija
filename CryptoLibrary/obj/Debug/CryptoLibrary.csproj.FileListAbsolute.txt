@@ -1,0 +1,6 @@
+C:\Users\acer\source\repos\ZI\CryptoLibrary\bin\Debug\CryptoLibrary.dll
+C:\Users\acer\source\repos\ZI\CryptoLibrary\bin\Debug\CryptoLibrary.pdb
+C:\Users\acer\source\repos\ZI\CryptoLibrary\obj\Debug\CryptoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ZI\CryptoLibrary\obj\Debug\CryptoLibrary.dll
+C:\Users\acer\source\repos\ZI\CryptoLibrary\obj\Debug\CryptoLibrary.pdb
+C:\Users\acer\source\repos\ZI\CryptoLibrary\obj\Debug\CryptoLibrary.csprojAssemblyReference.cache
